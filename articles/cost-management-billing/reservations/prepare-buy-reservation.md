@@ -56,7 +56,7 @@ You can always update the scope after you buy a reservation. To do so, go to the
 
 Reservation discounts apply to the following eligible subscriptions and offer types.
 
-- Enterprise agreement (offer numbers: MS-AZR-0017P or MS-AZR-0148P)
+- Enterprise agreement (offer numbers: MS-AZR-0017P, MS-AZR-0017G or MS-AZR-0148P)
 - Microsoft Customer Agreement subscriptions.
 - Individual plans with pay-as-you-go rates (offer numbers: MS-AZR-0003P or MS-AZR-0023P)
 - CSP subscriptions
